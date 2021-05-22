@@ -1,0 +1,54 @@
+{
+  "uid" : "ac5d3d69fcbd2103",
+  "name" : "test_with_testcase_link",
+  "fullName" : "test_012_allure#test_with_testcase_link",
+  "historyId" : "148de6bfc99ae7c53400e526a34e159a",
+  "time" : {
+    "start" : 1621636992683,
+    "stop" : 1621636992683,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_012_allure"
+  }, {
+    "name" : "host",
+    "value" : "YuanbaodeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "88649-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_012_allure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "百度",
+    "url" : "https://www.baidu.com/",
+    "type" : "test_case"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ac5d3d69fcbd2103.json",
+  "parameterValues" : [ ]
+}

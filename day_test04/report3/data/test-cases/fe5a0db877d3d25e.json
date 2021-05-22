@@ -1,0 +1,75 @@
+{
+  "uid" : "fe5a0db877d3d25e",
+  "name" : "test_loginf",
+  "fullName" : "test_011_allure.Test_login#test_loginf",
+  "historyId" : "c13e6be775f6bb425dc726f28a791f4c",
+  "time" : {
+    "start" : 1621636328432,
+    "stop" : 1621636328433,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "32ea482a30e82c2",
+      "name" : "stdout",
+      "source" : "32ea482a30e82c2.txt",
+      "type" : "text/plain",
+      "size" : 49
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "这是登录模块测试用例"
+  }, {
+    "name" : "story",
+    "value" : "密码已锁定，登录失败"
+  }, {
+    "name" : "suite",
+    "value" : "test_011_allure"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_login"
+  }, {
+    "name" : "host",
+    "value" : "YuanbaodeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "88406-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_011_allure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe5a0db877d3d25e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,84 @@
+{
+  "uid" : "460c276f70f160d",
+  "name" : "test_loginb",
+  "fullName" : "test_011_allure.Test_login#test_loginb",
+  "historyId" : "8b5b2acd22b2b1932cd748b10555a2d7",
+  "time" : {
+    "start" : 1621636328317,
+    "stop" : 1621636328317,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c10b0f36274e2dc5",
+      "name" : "HTML测试模块",
+      "source" : "c10b0f36274e2dc5.html",
+      "type" : "text/html",
+      "size" : 31
+    }, {
+      "uid" : "32c7c8b06f00d911",
+      "name" : "stdout",
+      "source" : "32c7c8b06f00d911.txt",
+      "type" : "text/plain",
+      "size" : 43
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "feature",
+    "value" : "这是登录模块测试用例"
+  }, {
+    "name" : "story",
+    "value" : "密码正确，登录成功"
+  }, {
+    "name" : "suite",
+    "value" : "test_011_allure"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_login"
+  }, {
+    "name" : "host",
+    "value" : "YuanbaodeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "88406-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_011_allure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "460c276f70f160d.json",
+  "parameterValues" : [ ]
+}
