@@ -6,6 +6,7 @@ class Test_Demo():
 
     def teardown_class(self):
         print("清理。。。")
+
     #   方法的前后执行
     def setup(self):
         print("set初始化。。。")
