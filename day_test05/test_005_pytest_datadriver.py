@@ -12,5 +12,6 @@ class TestDemo:
         elif "dev" in env:
             print("这是开发环境")
 
+
     def test_yaml(self):
         print(yaml.safe_load('/Users/yuanbao/PycharmProjects/hkes_test/data/env.yaml'))
