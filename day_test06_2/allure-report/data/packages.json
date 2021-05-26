@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_rerunfial",
+    "children" : [ {
+      "name" : "test_example",
+      "uid" : "60e4182ec359b1ff",
+      "parentUid" : "25a2dc9f8dcd771f5953f74f12793b30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621835542449,
+        "stop" : 1621835542450,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "25a2dc9f8dcd771f5953f74f12793b30"
+  } ]
+}
